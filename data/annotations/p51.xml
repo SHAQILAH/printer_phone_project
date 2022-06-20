@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p51.jpg</filename>
+	<path>C:\Users\Shaqilah\Documents\Y3S1\AAP\e-waste\images\train\p51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>6</ymin>
+			<xmax>559</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

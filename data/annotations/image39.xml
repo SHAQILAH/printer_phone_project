@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image39.jpg</filename>
+	<path>C:\Users\user\Downloads\printerimages for aap\train\image39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>printer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>28</ymin>
+			<xmax>1069</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>
