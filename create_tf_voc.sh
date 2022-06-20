@@ -1,6 +1,6 @@
-DATA_DIR=/home/ubuntu/balloon_project/data
-LABELMAP=/home/ubuntu/balloon_project/data/label_map.pbtxt
-OUTPUT_DIR=/home/ubuntu/balloon_project/data
+DATA_DIR=/home/ubuntu/printer_phone_project/data
+LABELMAP=/home/ubuntu/printer_phone_project/data/label_map.pbtxt
+OUTPUT_DIR=/home/ubuntu/printer_phone_project/data
 TEST_RATIO=0.2
 
 python create_tf_records_voc.py \
