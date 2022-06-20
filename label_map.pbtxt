@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'laptops'
+}
+
+item {
+    id: 2
+    name: 'phones'
+}
+
+item {
+    id: 3
+    name: 'printer'
+}
+
+item {
+    id: 4
+    name: 'tv'
+}
