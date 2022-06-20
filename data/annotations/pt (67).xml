@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pt (67).jpg</filename>
+	<path>C:\Users\Shaqilah\Documents\Y3S1\AAP\tf1\images\pt (67).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>printer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>33</ymin>
+			<xmax>555</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

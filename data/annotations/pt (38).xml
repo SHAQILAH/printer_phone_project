@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pt (38).jpg</filename>
+	<path>C:\Users\Shaqilah\Documents\Y3S1\AAP\tf1\images\pt (38).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4395</width>
+		<height>2472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>printer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>1426</ymin>
+			<xmax>1632</xmax>
+			<ymax>2351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>printer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1438</xmin>
+			<ymin>1738</ymin>
+			<xmax>2989</xmax>
+			<ymax>2387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>printer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2629</xmin>
+			<ymin>1466</ymin>
+			<xmax>4020</xmax>
+			<ymax>2287</ymax>
+		</bndbox>
+	</object>
+</annotation>
