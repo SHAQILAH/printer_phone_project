@@ -1,4 +1,4 @@
-MODEL=centernet_resnet101_v1_fpn_512x512_coco17_tpu-8
+MODEL=ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8
 EXPERIMENT=run1
 CUDA_VISIBLE_DEVICES=0
 PIPELINE_CONFIG_PATH=/home/ubuntu/printer_phone_project/models/${MODEL}/${EXPERIMENT}/pipeline.config
